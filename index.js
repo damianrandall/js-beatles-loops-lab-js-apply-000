@@ -29,6 +29,7 @@ theBeatlesPlay('Paul McCartney', 'Bass Guitar');
 theBeatlesPlay('George Harrison', 'Lead Guitar');
 theBeatlesPlay('Ringo Starr', 'plays Drums');
 
+theBeatlesPlay();
 
 function johnLennonFacts (fact) {
   console.log (fact + "!!!")
