@@ -29,11 +29,13 @@ theBeatlesPlay('Paul McCartney', 'Bass Guitar');
 theBeatlesPlay('George Harrison', 'Lead Guitar');
 theBeatlesPlay('Ringo Starr', 'plays Drums');
 
-function johnLennonFacts () {
-  console.log (
-  "He was the last Beatle to learn to drive",
-  "He was never a vegetarian",
-  "He was a choir boy and boy scout",
-  "He hated the sound of his own voice");
+
+function johnLennonFacts (fact) {
+  console.log (fact + "!!!")
+  fact("He was the last Beatle to learn to drive,");
+  fact("He was never a vegetarian,");
+  fact("He was a choir boy and boy scout,");
+  fact("He hated the sound of his own voice");
 }
+
 johnLennonFacts();
