@@ -30,7 +30,7 @@ function johnLennonFacts (fact) {
  
  //iLoveTheBeatles x8
  
- function iLoveTheBeatles (i=0; i<=8; i++){
+ for iLoveTheBeatles (i=0; i<=8; i++){
    console.log (I Love The Beatles!)
  }
  
