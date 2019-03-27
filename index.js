@@ -3,9 +3,6 @@
     it("returns an array of strings with exclamation points", function() {
       expect(johnLennonFacts([
         
-        
-        
-        
       ])).toEqual(["He was the last Beatle to learn to drive!!!", "He was never a vegetarian!!!", "He was a choir boy and boy scout!!!", "He hated the sound of his own voice!!!"]);
 
       expect(johnLennonFacts([
@@ -32,9 +29,9 @@ theBeatlesPlay('Paul McCartney', 'Bass Guitar');
 theBeatlesPlay('George Harrison', 'Lead Guitar');
 theBeatlesPlay('Ringo Starr', 'plays Drums');
 
-function johnLennonFacts () {
+function johnLennonFacts (fact) {
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
-  
+  "He hated the sound of his own voice"
 }
