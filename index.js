@@ -30,7 +30,6 @@ theBeatlesPlay('Paul McCartney', 'Bass Guitar');
 theBeatlesPlay('George Harrison', 'Lead Guitar');
 theBeatlesPlay('Ringo Starr', 'plays Drums');
 
-theBeatlesPlay();
 
 //johnLennonFacts
 
@@ -42,4 +41,3 @@ function johnLennonFacts (fact) {
  johnLennonFacts("He was a choir boy and boy scout");
  johnLennonFacts("He hated the sound of his own voice");
 
-johnLennonFacts();
