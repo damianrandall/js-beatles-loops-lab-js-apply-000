@@ -29,5 +29,7 @@ function johnLennonFacts (fact) {
  johnLennonFacts("He hated the sound of his own voice");
  
  function iLoveTheBeatles (){
-   console.log ()
+   console.log (I Love The Beatles!)
  }
+ 
+ 
