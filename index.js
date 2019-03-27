@@ -28,8 +28,11 @@ function johnLennonFacts (fact) {
  johnLennonFacts("He was a choir boy and boy scout");
  johnLennonFacts("He hated the sound of his own voice");
  
- function iLoveTheBeatles (){
+ //iLoveTheBeatles x8
+ 
+ function iLoveTheBeatles (i=0; i<=8; i++){
    console.log (I Love The Beatles!)
  }
+ 
  
  
