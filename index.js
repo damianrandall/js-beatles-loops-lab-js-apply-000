@@ -32,11 +32,11 @@ theBeatlesPlay('Ringo Starr', 'plays Drums');
 theBeatlesPlay();
 
 function johnLennonFacts (fact) {
-  console.log (fact + "!!!")
+  console.log (fact + "!!!");
+}
   fact("He was the last Beatle to learn to drive,");
   fact("He was never a vegetarian,");
   fact("He was a choir boy and boy scout,");
   fact("He hated the sound of his own voice");
-}
 
 johnLennonFacts();
