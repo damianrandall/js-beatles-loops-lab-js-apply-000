@@ -33,5 +33,6 @@ theBeatlesPlay('George Harrison', 'Lead Guitar');
 theBeatlesPlay('Ringo Starr', 'plays Drums');
 
 function johnLennonFacts () {
+  "He was the last Beatle to learn to drive",
   
 }
