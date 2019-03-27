@@ -1,11 +1,4 @@
 
-      expect(johnLennonFacts([
-        "foo",
-        "bar",
-      ])).toEqual(["foo!!!", "bar!!!"])
-    });
-  });
-
   describe('iLoveTheBeatles', function() {
     it("returns an array of 'I love the Beatles!' 8 times when passed the parameter 7 ", function() {
       expect(iLoveTheBeatles(7)).toEqual(["I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!"]);
@@ -35,4 +28,6 @@ function johnLennonFacts (fact) {
  johnLennonFacts("He was a choir boy and boy scout");
  johnLennonFacts("He hated the sound of his own voice");
  
- 
+ function iLoveTheBeatles (){
+   console.log ()
+ }
