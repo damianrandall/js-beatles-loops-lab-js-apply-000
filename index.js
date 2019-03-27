@@ -32,5 +32,3 @@ theBeatlesPlay('John Lennon', 'Guitar');
 theBeatlesPlay('Paul McCartney', 'Bass Guitar');
 theBeatlesPlay('George Harrison', 'Lead Guitar');
 theBeatlesPlay('Ringo Starr', 'plays Drums');
-
-
