@@ -20,6 +20,7 @@
     it("returns an array of 'I love the Beatles!' once when passed the parameter 17", function() {
       expect(iLoveTheBeatles(17)).toEqual(["I love the Beatles!"]);// create a function 
 
+//theBeatlesPlay
 
 function theBeatlesPlay (musicians, instrument) {
   console.log (musicians + ' plays ' + instrument) 
@@ -31,3 +32,14 @@ theBeatlesPlay('Ringo Starr', 'plays Drums');
 
 theBeatlesPlay();
 
+//johnLennonFacts
+
+function johnLennonFacts (fact) {
+  console.log (fact + "!!!,");
+}
+ johnLennonFacts("He was the last Beatle to learn to drive");
+ johnLennonFacts("He was never a vegetarian");
+ johnLennonFacts("He was a choir boy and boy scout");
+ johnLennonFacts("He hated the sound of his own voice");
+
+johnLennonFacts();
