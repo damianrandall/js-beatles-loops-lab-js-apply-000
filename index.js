@@ -30,9 +30,10 @@ theBeatlesPlay('George Harrison', 'Lead Guitar');
 theBeatlesPlay('Ringo Starr', 'plays Drums');
 
 function johnLennonFacts () {
-  console.log ()
+  console.log (
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
-  "He hated the sound of his own voice"
+  "He hated the sound of his own voice")
 }
+johnLennonFacts();
