@@ -40,4 +40,3 @@ function johnLennonFacts (fact) {
  johnLennonFacts("He was never a vegetarian");
  johnLennonFacts("He was a choir boy and boy scout");
  johnLennonFacts("He hated the sound of his own voice");
-
