@@ -1,10 +1,4 @@
 
-  describe('johnLennonFacts', function(){
-    it("returns an array of strings with exclamation points", function() {
-      expect(johnLennonFacts([
-        
-      ])).toEqual(["He was the last Beatle to learn to drive!!!", "He was never a vegetarian!!!", "He was a choir boy and boy scout!!!", "He hated the sound of his own voice!!!"]);
-
       expect(johnLennonFacts([
         "foo",
         "bar",
@@ -40,3 +34,5 @@ function johnLennonFacts (fact) {
  johnLennonFacts("He was never a vegetarian");
  johnLennonFacts("He was a choir boy and boy scout");
  johnLennonFacts("He hated the sound of his own voice");
+ 
+ 
